@@ -1,6 +1,6 @@
-# H2C TECH - Desenvolvimento Web e Presença Digital
+# H2C WEB - Desenvolvimento Web e Presença Digital
 
-A H2C TECH é uma agência especializada na criação de sites institucionais, landing pages e estruturas digitais de alta conversão. Localizada no Rio de Janeiro (RJ) e com atendimento 100% remoto para todo o Brasil, a empresa foca em credibilidade, posicionamento e resultados comerciais.
+A H2C WEB é uma agência especializada na criação de sites institucionais, landing pages e estruturas digitais de alta conversão. Localizada no Rio de Janeiro (RJ) e com atendimento 100% remoto para todo o Brasil, a empresa foca em credibilidade, posicionamento e resultados comerciais.
 
 ## Principais Soluções
 - Criação de Sites Profissionais e Institucionais.
