@@ -1,6 +1,6 @@
-# H2C TECH - Site Institucional
+# H2C WEB - Site Institucional
 
-Repositório oficial do site institucional e de landing pages da **H2C TECH**, focado em conversão e presença digital para profissionais liberais e negócios locais.
+Repositório oficial do site institucional e de landing pages da **H2C WEB**, focado em conversão e presença digital para profissionais liberais e negócios locais.
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Estrutura semântica da página.
